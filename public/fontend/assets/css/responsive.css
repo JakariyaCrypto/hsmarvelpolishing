@@ -1,0 +1,234 @@
+@media(max-width: 400px){
+.slider-text {
+	top: 15%;
+	width: 90%;
+
+}
+
+.what-app-button {
+	position: fixed;
+	bottom: 8%;
+	right: 2%;
+	width: 17%;
+	}
+
+.service-item {
+	margin-bottom: 20px;
+}
+
+.custom-bnr-stylr {
+	padding: 0 !important;
+}
+
+.banner-left-content-heading h5 {
+	font-size: 24px;
+
+}
+
+.custom-width {
+	width: 80%;
+	background: #ddd;
+	padding: 30px 20px;
+}
+
+.mobile-button {
+	width: 50%;
+
+}
+
+
+.counter-item {
+	margin-bottom: 50px;
+	border: none;
+}
+
+.footer-section {
+
+	text-align: center;
+}
+
+
+.footer-item {
+	margin-bottom: 50px;
+}
+
+
+/*about page */
+.banner-down-content {
+	padding: 10px 5px;
+
+}
+
+.banner-down-content p {
+	margin-top: 100px;
+	margin-bottom: 30px;
+}
+
+.contact-page-btn {
+	margin-top: 50px;
+}
+
+.about-click-down-text ul {
+	margin-left: 31px;
+}
+
+/*mobile menu*/
+
+}
+
+
+
+
+@media(max-width: 767px){
+	.slider-text {
+	top: 15%;
+	width: 90%;
+
+}
+.slider-img img {
+	width: 100%;
+	height: 450px !important;
+}
+
+.custom-bnr-stylr {
+	padding: 0 !important;
+}
+
+.service-item {
+	margin-bottom: 50px;
+}
+
+
+/*mobile menu*/
+
+.header-menu {
+	position: absolute;
+	width: 200px;
+	height: auto;
+	background: white;
+	top: 100%;
+	z-index: 99999;
+	right: 0%;
+	padding: 20px 0;
+	visibility: hidden;
+	opacity: 0;
+}
+
+.mobile-mene-active {
+	visibility: visible;
+	opacity: 1;
+	top: 72%;
+	transition: .3s;
+}
+
+.header-menu ul li {
+	display: block;
+	line-height: 40px;
+}
+
+.header-menu ul li a {
+	color: #535353;
+}
+
+.header-logo {
+	width: 20%;
+	float: left;
+}
+
+.mobile-menu-icon {
+	width: 80%;
+	float: right;
+	text-align: right;
+}
+
+.mobile-menu-icon i.fas {
+	color: white;
+	background: orange;
+	width: 40px;
+	height: 40px;
+	line-height: 40px;
+	text-align: center;
+	font-size: 20px;
+	border: ;
+	border-radius: .5rem;
+	box-shadow: 0px 1px 3px 1px #8c8787;
+	cursor: pointer;
+}
+
+.header-button {
+	position: absolute;
+	top: 32%;
+	left: 40%;
+}
+
+.counter-item {
+	margin-bottom: 50px;
+	border: none;
+}
+
+
+/*about page */
+.banner-down-content {
+	padding: 10px 5px;
+
+}
+
+.banner-down-content p {
+	margin-top: 100px;
+	margin-bottom: 30px;
+}
+
+.contact-page-btn {
+	margin-top: 120px;
+}
+
+.about-click-down-text ul {
+	margin-left: 31px;
+}
+
+
+/*contact page*/
+.contact-info {
+	margin-bottom: 40px;
+}
+
+.mobile-button {
+	width: 50%;
+}
+
+.what-app-button {
+	position: fixed;
+	bottom: 8%;
+	right: 2%;
+	width: 58px;
+}
+
+}
+
+
+
+@media(min-width: 768px)
+{
+	.mobile-menu-icon {
+		display: none;
+	}
+}
+
+
+
+@media(max-width: 1200px){
+		.slider-text {
+	top: 15%;
+	width: 90%;
+
+}
+
+.custom-bnr-stylr {
+	padding: 0 !important;
+}
+
+
+
+
+
+}
